@@ -429,7 +429,7 @@ max-width: 320px;
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("../images/people-office12x.jpg ");
+    url("../images/people-office1.jpg");
 }
 }
 
@@ -1400,7 +1400,7 @@ input:checked + label .custom-checkbox svg {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("../images/people-office1tablet2x.jpg ");
+    url("../images/people-office1.jpg ");
 }
 }
 
@@ -1595,7 +1595,7 @@ color: #2e2f42;
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url("../images/people-office1-desktop@2x.jpg");
+      url("../images/people-office1.jpg");
   }
 }
 
